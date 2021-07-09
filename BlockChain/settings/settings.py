@@ -1,0 +1,3 @@
+
+MAX_TOKEN_NUMBER = 10000
+
